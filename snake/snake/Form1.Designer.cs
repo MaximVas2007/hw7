@@ -49,7 +49,7 @@
             // lblGameOver
             // 
             this.lblGameOver.AutoSize = true;
-            this.lblGameOver.Location = new System.Drawing.Point(79, 101);
+            this.lblGameOver.Location = new System.Drawing.Point(51, 102);
             this.lblGameOver.Name = "lblGameOver";
             this.lblGameOver.Size = new System.Drawing.Size(35, 13);
             this.lblGameOver.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.pbCanvas.Location = new System.Drawing.Point(157, 63);
             this.pbCanvas.Name = "pbCanvas";
-            this.pbCanvas.Size = new System.Drawing.Size(449, 350);
+            this.pbCanvas.Size = new System.Drawing.Size(449, 315);
             this.pbCanvas.TabIndex = 2;
             this.pbCanvas.TabStop = false;
             this.pbCanvas.Paint += new System.Windows.Forms.PaintEventHandler(this.pbCanvas_paint);
